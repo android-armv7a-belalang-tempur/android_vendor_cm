@@ -14,4 +14,10 @@ PRODUCT_PACKAGES += \
     NoiseField \
     PhaseBeam \
     VisualizationWallpapers \
-    PhotoTable
+    PhotoTable \
+    VoiceDialer \
+    SoundRecorder
+
+# Extra tools in CM
+PRODUCT_PACKAGES += \
+    vim
